@@ -6,13 +6,20 @@ let make = _children => {
   ...component,
   render: _self =>
     <div>
-      <Button
-        appearance=`primary
-        intent=`success
-        iconBefore="tree"
-        width={`rem(15.)}>
-        {s("Hello Revergreen")}
-      </Button>
+      <p>
+        <Button
+          appearance=`primary
+          intent=`success
+          iconBefore="tree"
+          width={`rem(15.)}>
+          {s("Hello Revergreen")}
+        </Button>
+      </p>
+      <p>
+        <Button padding={`px(Evergreen.majorScale(4))}>
+          {s("This is a button with big paddings")}
+        </Button>
+      </p>
       <IconButton icon="cross" height=50 />
       <IconButton appearance=`minimal icon="notifications" iconSize=18 />
       <BackButton />

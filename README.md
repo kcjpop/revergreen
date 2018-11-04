@@ -63,7 +63,7 @@ Or `calc()`
 - [ ] Portal
 - [ ] Positioner
 - [ ] Radio, RadioGroup
-- [ ] minorScale, majorScale
+- [x] minorScale, majorScale
 - [ ] SearchInput
 - [ ] SegmentedControl
 - [ ] Select, SelectField
@@ -71,7 +71,7 @@ Or `calc()`
 - [ ] SideSheet
 - [ ] Spinner
 - [ ] Switch
-- [ ] extractStyles
+- [x] extractStyles
 - [ ] Stack, StackingContext
 - [ ] Table, TableHead, TableHeaderCell, TextTableHeaderCell, SearchTableHeaderCell, TableBody, TableRow, TableCell, TextTableCell
 - [ ] SidebarTab, Tab, Tablist, TabNavigation
