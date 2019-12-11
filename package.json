@@ -16,17 +16,17 @@
   "author": "An Cao <an.cao@ehkoo.com>",
   "license": "MIT",
   "dependencies": {
-    "@glennsl/bs-json": "^3.0.0",
-    "@minima.app/re-css": "^0.0.1",
-    "bs-fetch": "^0.3.0",
+    "@glennsl/bs-json": "5.0.1",
+    "@minima.app/re-css": "1.0.0",
+    "bs-fetch": "0.5.0",
     "evergreen-ui": "^4.2.0",
-    "react": "16.4.2",
-    "react-dom": "16.4.2",
-    "reason-react": "^0.5.3"
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "reason-react": "0.7.0"
   },
   "devDependencies": {
-    "bs-platform": "^4.0.6",
-    "concurrently": "^4.0.1",
+    "bs-platform": "7.0.1",
+    "concurrently": "5.0.1",
     "html-webpack-plugin": "^3.2.0",
     "pnp-webpack-plugin": "^1.2.0",
     "webpack": "^4.20.2",
